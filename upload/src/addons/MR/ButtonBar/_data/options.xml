@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="bar_links_button_1" edit_format="textbox" data_type="string">
+    <default_value>#</default_value>
+    <edit_format_params>type=text</edit_format_params>
+    <relation group_id="mr_buttonbar" display_order="1"/>
+  </option>
+  <option option_id="bar_links_button_2" edit_format="textbox" data_type="string">
+    <default_value>#</default_value>
+    <edit_format_params>type=text</edit_format_params>
+    <relation group_id="mr_buttonbar" display_order="2"/>
+  </option>
+  <option option_id="bar_links_button_3" edit_format="textbox" data_type="string">
+    <default_value>#</default_value>
+    <edit_format_params>type=text</edit_format_params>
+    <relation group_id="mr_buttonbar" display_order="3"/>
+  </option>
+  <option option_id="bar_links_button_4" edit_format="textbox" data_type="string">
+    <default_value>#</default_value>
+    <edit_format_params>type=text</edit_format_params>
+    <relation group_id="mr_buttonbar" display_order="4"/>
+  </option>
+  <option option_id="bar_links_button_5" edit_format="textbox" data_type="string">
+    <default_value>#</default_value>
+    <edit_format_params>type=text</edit_format_params>
+    <relation group_id="mr_buttonbar" display_order="5"/>
+  </option>
+</options>

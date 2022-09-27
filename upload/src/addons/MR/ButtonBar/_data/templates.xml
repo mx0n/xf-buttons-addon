@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="public" title="mr_bar_links" version_id="2000270" version_string="2.0.2"><![CDATA[<xf:css src="mr_bar_links.less" />
+<xf:set var="$blb1">{$xf.options.bar_links_button_1}</xf:set>
+<xf:set var="$blb2">{$xf.options.bar_links_button_2}</xf:set>
+<xf:set var="$blb3">{$xf.options.bar_links_button_3}</xf:set>
+<xf:set var="$blb4">{$xf.options.bar_links_button_4}</xf:set>
+<xf:set var="$blb5">{$xf.options.bar_links_button_5}</xf:set>
+
+
+<xf:if is="{{ $xf.visitor.hasPermission('forum','mr_mbs_view') }}">
+<div class="bar_links_notice">
+<xf:if is="$blb1 is not empty"><a class="bar_links_button_1 buttons" href="{$blb1}" target="_blank" title="{{ phrase('bar_links_button_1') }}">{{ phrase('bar_links_button_1') }}</a></xf:if>
+<xf:if is="$blb2 is not empty"><a class="bar_links_button_2 buttons" href="{$blb2}" target="_blank" title="{{ phrase('bar_links_button_2') }}">{{ phrase('bar_links_button_2') }}</a></xf:if>
+<xf:if is="$blb3 is not empty"><a class="bar_links_button_3 buttons" href="{$blb3}" target="_blank" title="{{ phrase('bar_links_button_3') }}">{{ phrase('bar_links_button_3') }}</a></xf:if>
+<xf:if is="$blb4 is not empty"><a class="bar_links_button_4 buttons" href="{$blb4}" target="_blank" title="{{ phrase('bar_links_button_4') }}">{{ phrase('bar_links_button_4') }}</a></xf:if>
+<xf:if is="$blb5 is not empty"><a class="bar_links_button_5 buttons" href="{$blb5}" target="_blank" title="{{ phrase('bar_links_button_5') }}">{{ phrase('bar_links_button_5') }}</a></xf:if>
+</div>
+</xf:if>]]></template>
+  <template type="public" title="mr_bar_links.less" version_id="1000070" version_string="1.0.0"><![CDATA[.bar_links_notice {
+  text-align: center;
+
+  .buttons {
+    .xf-bar_links_buttons();
+    width: @xf-ButtonBarLinksWidth;
+    height: @xf-ButtonBarLinksHeight;
+
+    &:hover {
+      .xf-bar_links_buttonsHover();
+    }
+
+    &:active {
+      .xf-bar_links_buttonsActive();
+    }
+  }
+
+  .bar_links_button_1 {
+    .xf-bar_links_buttons1();
+    
+    &:hover {
+      .xf-bar_links_buttons1Hover();
+    }
+  }
+  
+  .bar_links_button_2 {
+    .xf-bar_links_buttons2();
+
+    &:hover {
+      .xf-bar_links_buttons2Hover();
+    }
+  }
+   
+   .bar_links_button_3 {
+    .xf-bar_links_buttons3();
+   
+   &:hover {
+     .xf-bar_links_buttons3Hover();
+    }
+  }
+   
+   .bar_links_button_4 {
+    .xf-bar_links_buttons4();
+
+    &:hover {
+    .xf-bar_links_buttons4Hover();
+    }
+  }
+   .bar_links_button_5 {
+    .xf-bar_links_buttons5();
+
+    &:hover {
+    .xf-bar_links_buttons5Hover();
+    }
+  }
+}]]></template>
+</templates>

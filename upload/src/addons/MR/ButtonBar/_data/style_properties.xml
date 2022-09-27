@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style_properties>
+  <style_property property_name="ButtonBarLinksHeight" group_name="mr_buttonbar" title="Высота кнопок" property_type="value" value_type="unit" display_order="2">
+    <value>"117px"</value>
+  </style_property>
+  <style_property property_name="ButtonBarLinksWidth" group_name="mr_buttonbar" title="Ширина кнопок" property_type="value" value_type="unit" display_order="1">
+    <value>"241px"</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons" group_name="mr_buttonbar" title="Buttons" property_type="css" display_order="1" css_components="text,extra">
+    <value>{
+    "font-size": "16px",
+    "color": "rgb(255, 255, 255)",
+    "font-weight": "@xf-fontWeightHeavy",
+    "text-decoration": "none",
+    "extra": "display: inline-block;\ntext-align: center;\nline-height: 114px;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons1" group_name="mr_buttonbar" title="Buttons #1" property_type="css" display_order="4" css_components="background,extra">
+    <value>{
+    "background-image": "styles/mr/bar_links/bar_links_btn.png",
+    "extra": "background-repeat: no-repeat;\nbackground-position: 0 0;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons1Hover" group_name="mr_buttonbar" title="Buttons #1, Hover State" property_type="css" display_order="5" css_components="background,extra">
+    <value>{
+    "background-image": "styles/mr/bar_links/bar_links_btn.png",
+    "extra": "background-repeat: no-repeat;\nbackground-position: 0 -117px;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons2" group_name="mr_buttonbar" title="Buttons #2" property_type="css" display_order="6" css_components="background,extra">
+    <value>{
+    "background-image": "styles/mr/bar_links/bar_links_btn.png",
+    "extra": "background-repeat: no-repeat;\nbackground-position: 0 0;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons2Hover" group_name="mr_buttonbar" title="Buttons #2, Hover State" property_type="css" display_order="7" css_components="background,extra">
+    <value>{
+    "background-image": "styles/mr/bar_links/bar_links_btn.png",
+    "extra": "background-repeat: no-repeat;\nbackground-position: 0 -117px;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons3" group_name="mr_buttonbar" title="Buttons #3" property_type="css" display_order="8" css_components="background,extra">
+    <value>{
+    "background-image": "styles/mr/bar_links/bar_links_btn.png",
+    "extra": "background-repeat: no-repeat;\nbackground-position: 0 0;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons3Hover" group_name="mr_buttonbar" title="Buttons #3, Hover State" property_type="css" display_order="9" css_components="background,extra">
+    <value>{
+    "background-image": "styles/mr/bar_links/bar_links_btn.png",
+    "extra": "background-repeat: no-repeat;\nbackground-position: 0 -117px;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons4" group_name="mr_buttonbar" title="Buttons #4" property_type="css" display_order="10" css_components="background,extra">
+    <value>{
+    "background-image": "styles/mr/bar_links/bar_links_btn.png",
+    "extra": "background-repeat: no-repeat;\nbackground-position: 0 0;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons4Hover" group_name="mr_buttonbar" title="Buttons #4, Hover State" property_type="css" display_order="11" css_components="background,extra">
+    <value>{
+    "background-image": "styles/mr/bar_links/bar_links_btn.png",
+    "extra": "background-repeat: no-repeat;\nbackground-position: 0 -117px;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons5" group_name="mr_buttonbar" title="Buttons #5" property_type="css" display_order="12" css_components="background,extra">
+    <value>{
+    "background-image": "styles/mr/bar_links/bar_links_btn.png",
+    "extra": "background-repeat: no-repeat;\nbackground-position: 0 0;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttons5Hover" group_name="mr_buttonbar" title="Buttons #5, Hover State" property_type="css" display_order="13" css_components="background,extra">
+    <value>{
+    "background-image": "styles/mr/bar_links/bar_links_btn.png",
+    "extra": "background-repeat: no-repeat;\nbackground-position: 0 -117px;"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttonsActive" group_name="mr_buttonbar" title="Buttons, Active State" property_type="css" display_order="3" css_components="background">
+    <value>{
+    "background-color": "#8B5C34"
+}</value>
+  </style_property>
+  <style_property property_name="bar_links_buttonsHover" group_name="mr_buttonbar" title="Buttons, Hover State" property_type="css" display_order="2" css_components="text">
+    <value>{
+    "text-decoration": "none"
+}</value>
+  </style_property>
+</style_properties>

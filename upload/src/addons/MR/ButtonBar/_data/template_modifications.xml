@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="public" template="PAGE_CONTAINER" modification_key="mr_mbs_mod" description="Добавление Button Bar" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[<xf:ad position="container_breadcrumb_top_above" />]]></find>
+    <replace><![CDATA[<xf:widgetpos id="mr_mbs_position" />
+$0]]></replace>
+  </modification>
+</template_modifications>

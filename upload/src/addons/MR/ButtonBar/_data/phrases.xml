@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="bar_links_button_1" version_id="1000070" version_string="1.0.0"><![CDATA[Кнопка #1]]></phrase>
+  <phrase title="bar_links_button_2" version_id="1000070" version_string="1.0.0"><![CDATA[Кнопка #2]]></phrase>
+  <phrase title="bar_links_button_3" version_id="1000070" version_string="1.0.0"><![CDATA[Кнопка #3]]></phrase>
+  <phrase title="bar_links_button_4" version_id="1000070" version_string="1.0.0"><![CDATA[Кнопка #4]]></phrase>
+  <phrase title="bar_links_button_5" version_id="1000070" version_string="1.0.0"><![CDATA[Кнопка #5]]></phrase>
+  <phrase title="option.bar_links_button_1" version_id="1000070" version_string="1.0.0"><![CDATA[Кнопка #1]]></phrase>
+  <phrase title="option.bar_links_button_2" version_id="1000070" version_string="1.0.0"><![CDATA[Кнопка #2]]></phrase>
+  <phrase title="option.bar_links_button_3" version_id="1000070" version_string="1.0.0"><![CDATA[Кнопка #3]]></phrase>
+  <phrase title="option.bar_links_button_4" version_id="1000070" version_string="1.0.0"><![CDATA[Кнопка #4]]></phrase>
+  <phrase title="option.bar_links_button_5" version_id="1000070" version_string="1.0.0"><![CDATA[Кнопка #5]]></phrase>
+  <phrase title="option_explain.bar_links_button_1" version_id="1000070" version_string="1.0.0"><![CDATA[Используйте данное поле для активации кнопки и указания нужной ссылки.<br>
+(Активная кнопка появиться при заполнении поля, соответственно для отключения, достаточно его очистить.]]></phrase>
+  <phrase title="option_explain.bar_links_button_2" version_id="1000070" version_string="1.0.0"><![CDATA[Используйте данное поле для активации кнопки и указания нужной ссылки.<br>
+(Активная кнопка появиться при заполнении поля, соответственно для отключения, достаточно его очистить.]]></phrase>
+  <phrase title="option_explain.bar_links_button_3" version_id="1000070" version_string="1.0.0"><![CDATA[Используйте данное поле для активации кнопки и указания нужной ссылки.<br>
+(Активная кнопка появиться при заполнении поля, соответственно для отключения, достаточно его очистить.]]></phrase>
+  <phrase title="option_explain.bar_links_button_4" version_id="1000070" version_string="1.0.0"><![CDATA[Используйте данное поле для активации кнопки и указания нужной ссылки.<br>
+(Активная кнопка появиться при заполнении поля, соответственно для отключения, достаточно его очистить.]]></phrase>
+  <phrase title="option_explain.bar_links_button_5" version_id="1000070" version_string="1.0.0"><![CDATA[Используйте данное поле для активации кнопки и указания нужной ссылки.<br>
+(Активная кнопка появиться при заполнении поля, соответственно для отключения, достаточно его очистить.]]></phrase>
+  <phrase title="option_group.mr_buttonbar" version_id="1000070" version_string="1.0.0"><![CDATA[Button bar links]]></phrase>
+  <phrase title="option_group_description.mr_buttonbar" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="permission.forum_mr_mbs_view" version_id="2000270" version_string="2.0.2"><![CDATA[Видеть кнопки]]></phrase>
+  <phrase title="style_prop.ButtonBarLinksHeight" version_id="1000070" version_string="1.0.0"><![CDATA[Высота кнопок]]></phrase>
+  <phrase title="style_prop.ButtonBarLinksWidth" version_id="1000070" version_string="1.0.0"><![CDATA[Ширина кнопок]]></phrase>
+  <phrase title="style_prop.bar_links_buttons" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons]]></phrase>
+  <phrase title="style_prop.bar_links_buttons1" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons #1]]></phrase>
+  <phrase title="style_prop.bar_links_buttons1Hover" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons #1, Hover State]]></phrase>
+  <phrase title="style_prop.bar_links_buttons2" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons #2]]></phrase>
+  <phrase title="style_prop.bar_links_buttons2Hover" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons #2, Hover State]]></phrase>
+  <phrase title="style_prop.bar_links_buttons3" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons #3]]></phrase>
+  <phrase title="style_prop.bar_links_buttons3Hover" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons #3, Hover State]]></phrase>
+  <phrase title="style_prop.bar_links_buttons4" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons #4]]></phrase>
+  <phrase title="style_prop.bar_links_buttons4Hover" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons #4, Hover State]]></phrase>
+  <phrase title="style_prop.bar_links_buttons5" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons #5]]></phrase>
+  <phrase title="style_prop.bar_links_buttons5Hover" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons #5, Hover State]]></phrase>
+  <phrase title="style_prop.bar_links_buttonsActive" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons, Active State]]></phrase>
+  <phrase title="style_prop.bar_links_buttonsHover" version_id="1000070" version_string="1.0.0"><![CDATA[Buttons, Hover State]]></phrase>
+  <phrase title="style_prop_desc.ButtonBarLinksHeight" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.ButtonBarLinksWidth" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons1" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons1Hover" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons2" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons2Hover" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons3" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons3Hover" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons4" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons4Hover" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons5" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttons5Hover" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttonsActive" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.bar_links_buttonsHover" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_group.mr_buttonbar" version_id="1000070" version_string="1.0.0"><![CDATA[Button bar links]]></phrase>
+  <phrase title="style_prop_group_desc.mr_buttonbar" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_def.mr_mbs" version_id="2000270" version_string="2.0.2"><![CDATA[Button Bar]]></phrase>
+  <phrase title="widget_def_desc.mr_mbs" version_id="2000270" version_string="2.0.2"><![CDATA[]]></phrase>
+  <phrase title="widget_pos.mr_mbs_position" version_id="2000270" version_string="2.0.2"><![CDATA[Button Bar Position]]></phrase>
+  <phrase title="widget_pos_desc.mr_mbs_position" version_id="2000270" version_string="2.0.2"><![CDATA[]]></phrase>
+</phrases>
